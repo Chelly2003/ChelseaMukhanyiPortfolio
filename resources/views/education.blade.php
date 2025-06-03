@@ -8,16 +8,16 @@
       <!-- Logo name-->
       <span>Chelsea Nicole Mukhanyi</span></div>
     <!-- Mobile Navigation-->
-    <a href="index.html#menu1" class="menu-link"></a>
+    <a href="index.html.menu1" class="menu-link"></a>
     <!-- Left Navigation-->
     <nav id="menu1" role="navigation"> <a href="{{route('home')}}"><span id="link_introduction" class="active">Home</span></a>
-        <a href="{{route('about')}}"><span id="{{ Route::is('about') ? 'active' : ''}}">About</span></a>
+        <a href="{{route('about')}}"><span id="link_about">About</span></a>
         <a href="{{route('skills')}}"><span id="link_skills">Skills</span></a>
         <a href="{{route('experience')}}"><span id="link_experience">Experience</span></a>
          <a href="{{route('education')}}"><span id="link_education">Education</span></a>
 
           <a href="{{route('contact')}}"><span id="link_contact">Contact</span></a><br>
-          
+
    <a href="https://www.linkedin.com/in/chelsea-nicole-354420240" target="_blank"><i class="fa fa-linkedin"></i></a>
   </aside>
   <!-- Go to top link for mobile device -->
