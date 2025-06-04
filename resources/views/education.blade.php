@@ -21,7 +21,7 @@
    <a href="https://www.linkedin.com/in/chelsea-nicole-354420240" target="_blank"><i class="fa fa-linkedin"></i></a>
   </aside>
   <!-- Go to top link for mobile device -->
-  <a href="index.html#menu" class="totop-link">Go to the top</a>
+  <a href="index.html.menu" class="totop-link">Go to the top</a>
   <div class="content-scroller">
     <div class="content-wrapper">
 

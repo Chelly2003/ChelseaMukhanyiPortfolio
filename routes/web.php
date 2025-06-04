@@ -22,7 +22,6 @@ Route::get('experience',[HomeController::class,'experience'])->name('experience'
 
 Route::get('contact',[HomeController::class,'contact'])->name('contact');
 
-Route::get('blog',[HomeController::class,'blog'])->name('blog');
 
-Route::get('portfoli',[HomeController::class,'portfoli'])->name('portfoli');
+
 

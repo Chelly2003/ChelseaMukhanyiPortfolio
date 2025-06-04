@@ -31,13 +31,6 @@ class HomeController extends Controller
    {
       return view('contact');
    }
-    public function blog()
-   {
-      return view('blog');
-   }
-   public function portfoli()
-   {
-    return view('portfoli');
-   }
+  
 }
 
