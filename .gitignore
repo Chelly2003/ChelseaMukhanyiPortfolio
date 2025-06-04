@@ -1,3 +1,14 @@
+/vendor
+/node_modules
+.env
+.DS_Store
+/public/storage
+/storage/*.key
+.env.backup
+.idea
+*.log
+*.sql
+*.sqlite
 *.log
 .DS_Store
 .env
